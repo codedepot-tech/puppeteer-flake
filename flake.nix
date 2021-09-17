@@ -1,5 +1,5 @@
 {
-  description = "new method";
+  description = "Puppeteer is a Node library which provides a high-level API to control Chrome or Chromium over the DevTools Protocol.";
 
   inputs = {
     nixpkgs.url = "github:NixOS/nixpkgs/nixpkgs-unstable";
